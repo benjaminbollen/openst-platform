@@ -1,6 +1,6 @@
 [submodule "contracts/openst-protocol"]
 	path = contracts/openst-protocol
-	url = https://github.com/OpenSTFoundation/openst-protocol.git
+	url = https://github.com/OpenSTFoundation/openst-protocol
 [submodule "contracts/simpletoken"]
 	path = contracts/simpletoken
-	url = https://github.com/OpenSTFoundation/SimpleTokenSale.git
+	url = https://github.com/OpenSTFoundation/SimpleTokenSale

@@ -7,10 +7,6 @@ pw
 logs
 *.log
 
-# contracts are git submodules
-contracts/openst-protocol
-contracts/simpletoken
-
 # exclude geth poa data
 test/st-poa
 
